@@ -1,5 +1,7 @@
 # Calculator
-I did this project for a school homework. The objective is study GUI and OOP in java
+I did this project for a school homework.<br>
+The objective is study GUI and OOP in java.<br>
+Ide: NetBeans 16
 
 # Screenshot
 ![](img/ProjectPrint.PNG)
