@@ -4,7 +4,7 @@ The objective is study GUI and OOP in java.<br>
 Ide: NetBeans 16
 
 # Screenshot
-![](img/ProjectPrint.PNG)
+![](imgs/ProjectPrint.PNG)
 
 # Updates
 - Simplify the code
